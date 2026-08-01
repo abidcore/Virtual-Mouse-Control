@@ -186,12 +186,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**[Your Name]**
+**[ABID Ali]**
 AI & Machine Learning Diploma Student
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@abidcore](https://github.com/abidcore)
+- LinkedIn: (https://www.linkedin.com/in/abid-ali-shaikh-03a591423?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 
+- Email: abidalishaikh2007@gmail.com
 
 ---
 
